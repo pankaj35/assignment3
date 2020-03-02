@@ -1,4 +1,4 @@
-.main-box{
+.main-box {
     width: 700px;
     background-color: grey;
     padding-top: 90px;
@@ -8,7 +8,8 @@
     border-radius: 16px;
     outline: none;
 }
-.btn{
+
+.btn {
     width: 100px;
     height: 38px;
     color: white;
@@ -18,7 +19,8 @@
     outline: none;
     border-radius: 20px;
 }
-.btn:nth-child(2){
+
+.btn:nth-child(2) {
     width: 275px;
     margin-left: 20%;
     background-color: skyblue;

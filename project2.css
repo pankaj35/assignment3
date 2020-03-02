@@ -1,32 +1,39 @@
-body{
+body {
     margin: 0;
     padding: 0;
 }
-.main-div{
+
+.main-div {
     width: 506px;
     height: 250px;
     margin: 0 auto;
     margin-top: 200px;
 }
-.box{
+
+.box {
     width: 250px;
     height: 125px;
     float: left;
     position: relative;
 }
-.box:nth-child(1){
+
+.box:nth-child(1) {
     border: 1.5px solid red;
 }
-.box:nth-child(2){
-    border:1.5px solid blue;
+
+.box:nth-child(2) {
+    border: 1.5px solid blue;
 }
-.box:nth-child(3){
+
+.box:nth-child(3) {
     border: 1.5px solid green;
 }
-.box:nth-child(4){
+
+.box:nth-child(4) {
     border: 1.5px solid orange;
 }
-.middle-box{
+
+.middle-box {
     width: 100px;
     height: 100px;
     border: 2px solid fuchsia;
